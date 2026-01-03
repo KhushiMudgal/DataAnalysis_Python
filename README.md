@@ -1,5 +1,3 @@
-# DataAnalysis_Python
-
 # Healthcare Analytics Project – Hospital Readmission Prediction
 
 ## Project Overview
